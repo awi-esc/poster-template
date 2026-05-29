@@ -1,13 +1,13 @@
 # poster-template
-UiT color themed scientific poster template for LaTeX based on the Gemini poster template (https://github.com/anishathalye/gemini). There is a portrait and landscape version of the template. 
+AWI color themed scientific poster template for LaTeX based on the Gemini poster template (https://github.com/anishathalye/gemini). There is a portrait and landscape version of the template. 
 
 ## Portrait poster
 
-![Potrait poster](https://github.com/uit-cosmo/poster-template/blob/main/UiT_Poster_Template-1.png?raw=true)
+![Potrait poster](https://github.com/awi-esc/poster-template/blob/main/portrait.png?raw=true)
 
 ## Landscape
 
-![Landscape poster](https://github.com/uit-cosmo/poster-template/blob/main/UiT_Poster_Template_landscape-1.png?raw=true)
+![Landscape poster](https://github.com/awi-esc/poster-template/blob/main/landscape.png?raw=true)
 
 ## Dependencies
 
